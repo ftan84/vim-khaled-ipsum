@@ -1,4 +1,4 @@
-## 0.1.0 - 2016-03-22
+## 0.1.1 - 2016-03-22
 - Added proper attribution to the original author of Khaled Ipsum
 
 ## 0.1.0 - 2016-03-22
