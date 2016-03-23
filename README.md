@@ -1,4 +1,4 @@
-# vim-khaled-ipsum
+# vim-khaled-ipsum 0.1.0
 A lorem ipsum generator in the style of DJ Khaled.
 
 ## Installation
