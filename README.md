@@ -1,7 +1,7 @@
 # vim-khaled-ipsum 0.1.1
 A lorem ipsum generator in the style of DJ Khaled. This vim plugin was 
 inspired by the [Khaled Ipsum Generator](http://khaledipsum.com) written by my friend, Patrick 
-Wong.
+Wong. I thought that the original generator found in the link above is hilarious and a fun alternative to the otherwise banal traditional generator. I knew that this needed to be made available to vim users and so here we are.
 
 ## Installation
 I highly recommend you use the Vundle package manager. To install, simply add 
