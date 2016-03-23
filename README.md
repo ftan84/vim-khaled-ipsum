@@ -13,3 +13,9 @@ To insert a DJ Khaled paragaraph, simply type the following command:
 ```
 :KhaleIpsum
 ```
+The command is also conveniently mapped to
+```
+<leader>kh
+```
+Simply type the above in normal mode to insert a paragraph's worth of DJ Khaled 
+goodness.
