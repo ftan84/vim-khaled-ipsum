@@ -5,7 +5,7 @@ Wong. I thought that the original generator found in the link above is hilarious
 
 <!--- ![Khaled Ipsum Demo](/static/khaled-ipsum-demo.gif?raw=true) --->
 <p align="center">
-  <img src="https://github.com/ftan84/vim-khaled-ipsum/static/khaled-ipsum-demo.gif?raw=true" alt="Khaled Ipsum Demo"/>
+  <img src="https://github.com/ftan84/vim-khaled-ipsum/blob/master/static/khaled-ipsum-demo.gif?raw=true" alt="Khaled Ipsum Demo"/>
 </p>
 
 ## Installation
