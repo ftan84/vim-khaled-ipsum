@@ -18,7 +18,7 @@ Plugin 'ftan84/vim-khaled-ipsum'
 ## Usage
 To insert a DJ Khaled paragaraph, simply type the following command:
 ```
-:KhaleIpsum
+:Khalipsum
 ```
 The command is also conveniently mapped to
 ```
